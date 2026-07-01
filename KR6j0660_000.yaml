@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0660/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 龍樹五明論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1420.xml
+    old_id: T21n1420
+hash: sha256:5f41fbef57241a05eab538b61b5a3aa3def8aa235dfa911eabcd2be11a50b608

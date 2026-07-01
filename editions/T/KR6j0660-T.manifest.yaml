@@ -1,0 +1,110 @@
+canonical_identifier: bkk:krp/KR6j0660/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0660/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 龍樹五明論
+  identifiers:
+    krp: KR6j0660
+    cbeta: T21n1420
+    cbeta_old_id: T21n1420
+    authorityid: CA0002118
+    json_key: T1420
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1420.xml
+    old_id: T21n1420
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0660_000-T.yaml, hash: 'sha256:5f41fbef57241a05eab538b61b5a3aa3def8aa235dfa911eabcd2be11a50b608'}
+  - {seq: 1, filename: KR6j0660_001-T.yaml, hash: 'sha256:2f35e74badc491e811e0b96d9e7681c404cf42786f2eb6a753fdb8619a8033a8'}
+  - {seq: 2, filename: KR6j0660_002-T.yaml, hash: 'sha256:3a95042b9861203577ce9129b0e9297424bde1952b3878e5445d525a714c8be3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0660_000-T.markers.yaml, hash: 'sha256:aed2e627e37d06e826f261b96c085d6a43c3b53322e9b549cc382683513ae16d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0660_001-T.markers.yaml, hash: 'sha256:3f0931a1d7952669bd3b2a7019741ee3fd9d988e33cdf246d49f0d552e25378e'}
+  - {seq: 2, role: markers, filename: assets/KR6j0660_002-T.markers.yaml, hash: 'sha256:4683a37ec3f3fcfbc4ffbbe3610086dfa598afd5d8be103dd0b01bd0db76ef8e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0660_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6911
+  label: 龍樹五明論卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0660_T_001-mulu-1
+    span:
+    - body
+    - 2427
+    - 2427
+  label: 祕決圖經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0660_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7609
+  label: 龍樹五明論卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0660_T_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 咒事
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0660_T_002-mulu-2
+    span:
+    - body
+    - 1276
+    - 1276
+  label: 五明印論
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0660_T_002-mulu-3
+    span:
+    - body
+    - 3976
+    - 3976
+  label: 五明論事印法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0660_T_002-mulu-4
+    span:
+    - body
+    - 5964
+    - 5964
+  label: 五明論決
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0660_T_002-mulu-5
+    span:
+    - body
+    - 6978
+    - 6978
+  label: 服香方法
+  type: mulu
+  level: 1
+hash: sha256:f500eb42faeb5068fca565638597ae030a1d82b6ffede3faae590de81d17baad
